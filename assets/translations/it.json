@@ -1,0 +1,22 @@
+{
+    "goBack": "Indietro",
+    "create": "Crea",
+    "deleteAll": "Elimina tutti i lavori",
+    "confirm": "Conferma",
+    "no": "No",
+
+    "titleHome": "I tuoi disegni",
+    "chooseBrush": "Scegli la grandezza del pennello",
+    "chooseColor": "Seleziona il colore",
+    "modalDelete": "Vuoi davvero cancellare tutto?",
+    "modalEmptyCanvas": "Devi disegnare qualcosa prima di salvare",
+    "saving": "Vuoi salvare il tuo lavoro?",
+    "save": "Salva",
+    "correctSaving": "Salvataggio eseguito correttamente",
+    "errorSaving": "Qualcosa è andato storto",
+    "backHome": "Torna alla home",
+    "continueEditing": "Continua a modificare",
+    "tryAgain": "Riprova",
+    "errorMessage": "Enter a name without spaces",
+    "worksEmpty": "Non hai ancora creato niente"
+}

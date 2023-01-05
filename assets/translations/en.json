@@ -1,0 +1,22 @@
+{
+    "goBack": "Back",
+    "create": "Create",
+    "deleteAll": "Delete all works",
+    "confirm": "Confirm",
+    "no": "No",
+
+    "titleHome": "Your drawings",
+    "chooseBrush": "Choose brush size",
+    "chooseColor": "Select color",
+    "modalDelete": "Are you sure you want to delete everything?",
+    "modalEmptyCanvas": "You have to draw something before saving",
+    "saving": "Do you want to save?",
+    "save": "Save",
+    "correctSaving": "Saving successful",
+    "errorSaving": "Something went wrong",
+    "backHome": "Back to home",
+    "continueEditing": "Continue editing",
+    "tryAgain": "Try again",
+    "errorMessage": "Inserisci un nome senza spazi",
+    "worksEmpty": "You haven’t created anything yet"
+}
